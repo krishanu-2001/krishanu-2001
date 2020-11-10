@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## About Me:  
-Hi again,  
 I am Krishanu Saini, currently pursuing B.Tech at IIT Indore, in Computer Science and Engineering  
 I am deeply interested in new technology and automating my daily work.  
   
