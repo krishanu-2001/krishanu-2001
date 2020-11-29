@@ -5,7 +5,7 @@ I am Krishanu Saini, currently pursuing B.Tech at IIT Indore, in Computer Scienc
 I am deeply interested in new technology and automating my daily work.  
   
   
-I have had a long journey in web development and currently one can find me exploring tools to make work more efficient,  
+I have a good experience in web development and currently one can find me exploring tools to make work more efficient,  
 While on breaks I like to write css and javascript functionalities from scratch (Hobby)  
 I love to write blogs or humble services whenever I learn new things. What's better than sharing your knowledge!  
 Moreover I am a regular competitive programmer. Here’s my portfolio below:  
@@ -20,7 +20,8 @@ https://krishanu-2001.github.io
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
