@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=krishanu-2001&color=dc143c)
+
 ## About Me:  
 I am Krishanu Saini, currently pursuing B.Tech at IIT Indore, in Computer Science and Engineering  
 I am deeply interested in new technology and automating my daily work.  
