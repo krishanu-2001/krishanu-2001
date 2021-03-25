@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=krishanu-2001&color=dc143c)
 
