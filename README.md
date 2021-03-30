@@ -11,7 +11,11 @@ I have a good experience in web and mobile development and currently one can fin
 While on breaks I like to create css and javascript functionalities from scratch (Hobby)  
 I love to write blogs and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
 Moreover I am a regular competitive programmer. Here’s my portfolio below:  
-https://krishanu-2001.github.io
+https://krishanu-2001.github.io  
+
+Some of my end-to-end projects  
+1. UNIVERSITY-MANAGER https://krishdevtools.pythonanywhere.com/
+2. E-STORE HEROKU https://estore-meanstack.herokuapp.com/  
 
 
 #### My favourite languages:  
