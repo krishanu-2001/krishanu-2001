@@ -15,7 +15,8 @@ https://krishanu-2001.github.io
 
 Some of my end-to-end projects  
 1. UNIVERSITY-MANAGER https://krishdevtools.pythonanywhere.com/
-2. E-STORE HEROKU https://estore-meanstack.herokuapp.com/  
+2. E-STORE HEROKU https://estore-meanstack.herokuapp.com/   
+3. LIBRARY-MANAGER http://g3dbms.pythonanywhere.com/ 
 
 
 #### My favourite languages:  
