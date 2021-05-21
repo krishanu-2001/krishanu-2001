@@ -1,5 +1,4 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='60' align="left"/><h2>Hey there! I'm Krishanu Saini</h2>
-<hr />  
 
 ![](https://komarev.com/ghpvc/?username=krishanu-2001&color=dc143c)
 
