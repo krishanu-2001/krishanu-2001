@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=krishanu-2001&color=dc143c)
 
 ## About Me:  
-💡 &nbsp;I like to explore new technologies and develop software solutions and automating my daily work.\
+💡 &nbsp;I like to explore new technologies and automate my daily work.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Technology Indore.  
 I have a good experience in web and mobile development and currently one can find me exploring tools to make work more efficient,  
 I love to write blogs and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
