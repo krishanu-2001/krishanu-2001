@@ -12,6 +12,7 @@ const userDetails = () => {
       gender:  'male',
   university:  'Indian Institute of Technology Indore',
      program:  'B.Tech',
+      branch:  'Computer Science and Engineering',
         year:   3,
   }
   console.log(obj)
