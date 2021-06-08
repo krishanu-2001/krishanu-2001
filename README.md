@@ -3,18 +3,38 @@
 ![](https://komarev.com/ghpvc/?username=krishanu-2001&color=dc143c)
 
 ## About Me:  
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Technology Indore.  
-💡 &nbsp;I like to explore new technologies and automate my daily work.  
-I have a good experience in web and mobile development and currently one can find me exploring tools to make work more efficient,  
+```javascript
+const userDetails = () => {
+  let obj = {
+    username:  'Krishanu Saini',
+     country:  'India',
+       state:  'New Delhi',
+      gender:  'male',
+  university:  'Indian Institute of Technology Indore',
+     program:  'B.Tech',
+        year:   3,
+  }
+  console.log(obj)
+}
+```
+
+💡 &nbsp;I have a good experience in web and mobile development and currently one can find me exploring tools to make work more efficient,  
 I love to write blogs and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
 Moreover I am a regular competitive programmer. Here’s my portfolio below:  
 https://krishanu-2001.github.io  
 
-Some of my end-to-end projects  
-1. UMS - Website http://softwarep012.pythonanywhere.com/
-2. LIBRARY-MANAGER http://g3dbms.pythonanywhere.com/ 
-3. E-STORE HEROKU https://estore-meanstack.herokuapp.com/   
-4. UNIVERSITY-MANAGER https://krishdevtools.pythonanywhere.com/  
+<details>
+<summary>Some of my end-to-end projects  </summary>
+<br>
+
+Application | Website Link | Important Dates
+------------ | ------------- | ------------
+UMS - Website | http://softwarep012.pythonanywhere.com | Apr 2021 – May 2021
+LIBRARY-MANAGER | http://g3dbms.pythonanywhere.com | Mar 2021 – Apr 2021
+E-STORE HEROKU | https://estore-meanstack.herokuapp.com | Jun 2020 – Aug 2020
+UNIVERSITY-MANAGER | https://krishdevtools.pythonanywhere.com | Aug 2020 – Nov 2020  
+  
+</details> 
 
 🌱 Currently, I am exploring cloud and serverless technology through projects.
 
