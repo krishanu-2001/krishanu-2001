@@ -19,12 +19,12 @@ const userDetails = () => {
 }
 ```
 
-💡 &nbsp;I have a good experience in web and mobile development and currently one can find me exploring tools to make work more efficient,  
-📚 &nbsp;I love to write blogs and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
-:musical_score: Moreover I am a regular competitive programmer. Here’s my portfolio:  https://krishanu-2001.github.io  
+🎲 &nbsp;I have a good experience in web and mobile development and currently one can find me exploring tools to make work more efficient,  
+💡 &nbsp;I love to write blogs and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
+Moreover I am a regular competitive programmer. Here’s my portfolio:  https://krishanu-2001.github.io  
 
 <details>
-<summary>Some of my end-to-end projects  </summary>
+<summary>Some of my end-to-end projects </summary>
 <br>
 
 Application | Website Link | Important Dates
@@ -36,7 +36,7 @@ UNIVERSITY-MANAGER | https://krishdevtools.pythonanywhere.com | Aug 2020 – Nov
   
 </details> 
 
-🌱 Currently, I am exploring cloud and serverless technology through projects.
+⛅ Currently, I am exploring cloud and serverless technology through projects.
 
 <hr />
 
