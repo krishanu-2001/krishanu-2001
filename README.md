@@ -23,7 +23,6 @@ const userDetails = () => {
 💡 &nbsp;I love to write blogs and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
 Moreover I am a regular competitive programmer. Here’s my portfolio:  https://krishanu-2001.github.io  
 
-<details>
 <summary>Some of my end-to-end projects </summary>
 <br>
 
@@ -34,7 +33,6 @@ LIBRARY-MANAGER | http://g3dbms.pythonanywhere.com | Mar 2021 – Apr 2021
 E-STORE HEROKU | https://estore-meanstack.herokuapp.com | Jun 2020 – Aug 2020
 UNIVERSITY-MANAGER | https://krishdevtools.pythonanywhere.com | Aug 2020 – Nov 2020  
   
-</details> 
 
 ⛅ Currently, I am exploring cloud and serverless technology through projects.
 
