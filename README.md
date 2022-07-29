@@ -7,9 +7,7 @@
 const userDetails = () => {
   let obj = {
     username:  'Krishanu Saini',
-     country:  'India',
-        city:  'New Delhi'
-  university:  'Indian Institute of Technology Indore',
+        city:  'New Delhi',
      program:  'B.Tech',
       branch:  'Computer Science and Engineering',
         year:   4
