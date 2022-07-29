@@ -7,13 +7,10 @@
 const userDetails = () => {
   let obj = {
     username:  'Krishanu Saini',
-     country:  'India',
-       state:  'New Delhi',
-      gender:  'male',
   university:  'Indian Institute of Technology Indore',
      program:  'B.Tech',
       branch:  'Computer Science and Engineering',
-        year:   3
+        year:   4
   }
   console.log(obj)
 }
