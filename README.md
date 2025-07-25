@@ -10,28 +10,13 @@ const userDetails = () => {
         city:  'New Delhi',
      program:  'B.Tech',
       branch:  'Computer Science and Engineering',
-        year:   4
+        years:   4
   }
   console.log(obj)
 }
 ```
 
-🎲 &nbsp;I have experience in cloud technologies and computer vision and currently one can find me exploring tools to make work more efficient,  
-💡 &nbsp;I love to write blogs, contribute to projects and develop humble services whenever I learn new things. What's better than sharing your knowledge!  
-Moreover I am a regular competitive programmer. Here’s my portfolio:  https://krishanu-2001.github.io  
-
-<summary>Some of my end-to-end projects </summary>
-<br>
-
-Application | Website Link | Important Dates
------------- | ------------- | ------------
-UMS - Website | http://softwarep012.pythonanywhere.com | Apr 2021 – May 2021
-LIBRARY-MANAGER | http://g3dbms.pythonanywhere.com | Mar 2021 – Apr 2021
-E-STORE HEROKU | https://estore-meanstack.herokuapp.com | Jun 2020 – Aug 2020
-UNIVERSITY-MANAGER | https://krishdevtools.pythonanywhere.com | Aug 2020 – Nov 2020  
-  
-
-⛅ Currently, I am exploring Blockchain and Machine learning through projects.
+⛅ Currently, I am exploring Computer Vision and AI through projects.
 
 <hr /> 
 
