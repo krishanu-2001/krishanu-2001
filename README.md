@@ -7,10 +7,10 @@
 const userDetails = () => {
   let obj = {
     username:  'Krishanu Saini',
-        city:  'New Delhi',
-     program:  'B.Tech',
-      branch:  'Computer Science and Engineering',
-        years:   4
+        city:  'Austin, TX',
+     program:  'Master's',
+      branch:  'Computer Science',
+        years:   2
   }
   console.log(obj)
 }
